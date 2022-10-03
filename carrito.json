@@ -1,0 +1,30 @@
+{
+    "squadName":"developersflow",
+    "formed": 2021,
+    "secretBase": "codePower",
+    "active": true,
+    "member": [{
+            "name": "Jorge",
+            "age": 29
+        },
+        {
+            "name": "Ignacio",
+            "age": 39
+        },
+        {
+            "name": "Pedro",
+            "age": 19,
+            "elementBuy": "Teclado"
+        },
+
+        {
+            "nombreElemento":"Mouse",
+            "precio":"20",            
+            "disponibilidadEnStock":true
+        },
+
+        {
+            "nombreElemento":"Keyboard",
+            "precio":"30",            
+            "disponibilidadEnStock":true
+        },
